@@ -1,0 +1,54 @@
+
+---Upload files---
+Redux file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://accesspressthemes.com/import/the-monday
+Data file = /home/accesspresstheme/public_html/import/the-monday/wp-content/uploads/2020/11/freewordpressmultipurposetheme-themondayfeaturesdemo.WordPress.2020-11-04.xml
+Widget file = /home/accesspresstheme/public_html/import/the-monday/wp-content/uploads/2020/11/demo.accesspressthemes.com-the-monday-widgets.wie
+Customizer file = /home/accesspresstheme/public_html/import/the-monday/wp-content/uploads/2020/11/the-monday-export.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+
+Front Page: Subscribe Section : 
+
+Newsletter - Subscribe Today! - Imported
+
+Footer: Contact Map : 
+
+Text - No Title - Imported
+
+Footer: Sidebar one : 
+
+Text - Contact - Imported
+
+Footer: Sidebar two : 
+
+aptf_widget - Tweet - Site does not support widget
+
+Footer: Sidebar three : 
+
+Navigation Menu - Important Links - Imported
+apsc_widget - Social Counter - Site does not support widget
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!

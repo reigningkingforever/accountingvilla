@@ -1,0 +1,100 @@
+06-04-2021 22:10:22 - ERROR - v: 7.0.7 - m: 5.7 MB, u: 0 - cURL error 28: Resolving timed out after 5003 milliseconds (http_request_failed) - 
+06-04-2021 22:10:27 - ERROR - v: 7.0.7 - m: 6.0 MB, u: 0 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:17:15 - ERROR - v: 7.0.7 - m: 6.0 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:17:15 - ERROR - v: 7.0.7 - m: 6.0 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:17:15 - ERROR - v: 7.0.7 - m: 6.3 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:17:15 - ERROR - v: 7.0.7 - m: 6.6 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:17:15 - ERROR - v: 7.0.7 - m: 6.7 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:18:48 - ERROR - v: 7.0.7 - m: 6.0 MB, u: 1 - cURL error 28: Resolving timed out after 5006 milliseconds (http_request_failed) - 
+06-04-2021 22:18:48 - ERROR - v: 7.0.7 - m: 6.0 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:18:48 - ERROR - v: 7.0.7 - m: 6.3 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:18:48 - ERROR - v: 7.0.7 - m: 6.6 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:18:48 - ERROR - v: 7.0.7 - m: 6.6 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:19:30 - ERROR - v: 7.0.7 - m: 6.0 MB, u: 1 - cURL error 28: Resolving timed out after 5001 milliseconds (http_request_failed) - 
+06-04-2021 22:19:30 - ERROR - v: 7.0.7 - m: 6.0 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:19:30 - ERROR - v: 7.0.7 - m: 6.3 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:19:30 - ERROR - v: 7.0.7 - m: 6.6 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:19:30 - ERROR - v: 7.0.7 - m: 6.7 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:22:56 - ERROR - v: 7.0.7 - m: 6.0 MB, u: 1 - cURL error 28: Resolving timed out after 5014 milliseconds (http_request_failed) - 
+06-04-2021 22:22:56 - ERROR - v: 7.0.7 - m: 6.0 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:22:56 - ERROR - v: 7.0.7 - m: 6.3 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:22:57 - ERROR - v: 7.0.7 - m: 6.0 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:22:57 - ERROR - v: 7.0.7 - m: 6.0 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:22:57 - ERROR - v: 7.0.7 - m: 6.3 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:22:57 - ERROR - v: 7.0.7 - m: 6.6 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:22:57 - ERROR - v: 7.0.7 - m: 6.7 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:23:30 - ERROR - v: 7.0.7 - m: 8.9 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:23:30 - ERROR - v: 7.0.7 - m: 9.0 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:23:34 - ERROR - v: 7.0.7 - m: 6.2 MB, u: 1 - cURL error 28: Resolving timed out after 5002 milliseconds (http_request_failed) - 
+06-04-2021 22:23:34 - ERROR - v: 7.0.7 - m: 6.3 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:23:35 - ERROR - v: 7.0.7 - m: 14.1 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:23:35 - ERROR - v: 7.0.7 - m: 14.1 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:23:38 - ERROR - v: 7.0.7 - m: 6.0 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:23:38 - ERROR - v: 7.0.7 - m: 6.0 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:23:38 - ERROR - v: 7.0.7 - m: 6.3 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:23:53 - ERROR - v: 7.0.7 - m: 8.3 MB, u: 1 - cURL error 28: Resolving timed out after 5005 milliseconds (http_request_failed) - 
+06-04-2021 22:23:53 - ERROR - v: 7.0.7 - m: 8.4 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:25:42 - ERROR - v: 7.0.7 - m: 6.2 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:25:42 - ERROR - v: 7.0.7 - m: 6.3 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:26:22 - ERROR - v: 7.0.7 - m: 6.0 MB, u: 1 - cURL error 28: Resolving timed out after 5001 milliseconds (http_request_failed) - 
+06-04-2021 22:26:22 - ERROR - v: 7.0.7 - m: 6.0 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:26:22 - ERROR - v: 7.0.7 - m: 6.3 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:26:22 - ERROR - v: 7.0.7 - m: 6.6 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:26:22 - ERROR - v: 7.0.7 - m: 6.6 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:26:54 - ERROR - v: 7.0.7 - m: 5.9 MB, u: 1 - cURL error 28: Resolving timed out after 5012 milliseconds (http_request_failed) - 
+06-04-2021 22:27:06 - ERROR - v: 7.0.7 - m: 5.9 MB, u: 1 - cURL error 28: Resolving timed out after 5010 milliseconds (http_request_failed) - 
+06-04-2021 22:31:16 - ERROR - v: 7.0.7 - m: 6.0 MB, u: 1 - cURL error 28: Resolving timed out after 5007 milliseconds (http_request_failed) - 
+06-04-2021 22:31:16 - ERROR - v: 7.0.7 - m: 6.0 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:31:16 - ERROR - v: 7.0.7 - m: 6.3 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:31:16 - ERROR - v: 7.0.7 - m: 6.7 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:31:16 - ERROR - v: 7.0.7 - m: 6.7 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:32:45 - ERROR - v: 7.0.7 - m: 6.0 MB, u: 1 - cURL error 28: Resolving timed out after 5000 milliseconds (http_request_failed) - 
+06-04-2021 22:32:45 - ERROR - v: 7.0.7 - m: 6.0 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:32:45 - ERROR - v: 7.0.7 - m: 6.3 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:32:48 - ERROR - v: 7.0.7 - m: 8.3 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:32:48 - ERROR - v: 7.0.7 - m: 8.3 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:33:24 - ERROR - v: 7.0.7 - m: 6.0 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:33:24 - ERROR - v: 7.0.7 - m: 6.0 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:33:24 - ERROR - v: 7.0.7 - m: 6.3 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:33:25 - ERROR - v: 7.0.7 - m: 6.0 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:33:25 - ERROR - v: 7.0.7 - m: 6.0 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:33:25 - ERROR - v: 7.0.7 - m: 6.3 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:33:27 - ERROR - v: 7.0.7 - m: 8.2 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:33:27 - ERROR - v: 7.0.7 - m: 8.3 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:33:55 - ERROR - v: 7.0.7 - m: 8.8 MB, u: 1 - cURL error 28: Resolving timed out after 5007 milliseconds (http_request_failed) - 
+06-04-2021 22:33:55 - ERROR - v: 7.0.7 - m: 8.8 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:33:58 - ERROR - v: 7.0.7 - m: 13.9 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:33:58 - ERROR - v: 7.0.7 - m: 14.0 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:34:17 - ERROR - v: 7.0.7 - m: 6.2 MB, u: 1 - cURL error 28: Resolving timed out after 5008 milliseconds (http_request_failed) - 
+06-04-2021 22:34:17 - ERROR - v: 7.0.7 - m: 6.3 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:35:06 - ERROR - v: 7.0.7 - m: 6.0 MB, u: 1 - cURL error 28: Resolving timed out after 5009 milliseconds (http_request_failed) - 
+06-04-2021 22:35:06 - ERROR - v: 7.0.7 - m: 6.0 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:35:06 - ERROR - v: 7.0.7 - m: 6.3 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:35:07 - ERROR - v: 7.0.7 - m: 6.6 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:35:07 - ERROR - v: 7.0.7 - m: 6.6 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:39:29 - ERROR - v: 7.0.7 - m: 6.0 MB, u: 1 - cURL error 28: Resolving timed out after 5005 milliseconds (http_request_failed) - 
+06-04-2021 22:39:29 - ERROR - v: 7.0.7 - m: 6.0 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:39:29 - ERROR - v: 7.0.7 - m: 6.3 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:39:30 - ERROR - v: 7.0.7 - m: 7.0 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:39:30 - ERROR - v: 7.0.7 - m: 7.0 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:41:03 - ERROR - v: 7.0.7 - m: 6.0 MB, u: 1 - cURL error 28: Resolving timed out after 5011 milliseconds (http_request_failed) - 
+06-04-2021 22:41:03 - ERROR - v: 7.0.7 - m: 6.1 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:41:03 - ERROR - v: 7.0.7 - m: 6.3 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:41:04 - ERROR - v: 7.0.7 - m: 7.2 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:41:04 - ERROR - v: 7.0.7 - m: 7.2 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:41:47 - ERROR - v: 7.0.7 - m: 5.9 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:41:47 - ERROR - v: 7.0.7 - m: 5.9 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:44:20 - ERROR - v: 7.0.7 - m: 6.0 MB, u: 1 - cURL error 28: Resolving timed out after 5014 milliseconds (http_request_failed) - 
+06-04-2021 22:44:20 - ERROR - v: 7.0.7 - m: 6.0 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:44:20 - ERROR - v: 7.0.7 - m: 6.3 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:44:21 - ERROR - v: 7.0.7 - m: 6.7 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:44:21 - ERROR - v: 7.0.7 - m: 6.7 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:45:40 - ERROR - v: 7.0.7 - m: 6.0 MB, u: 1 - cURL error 28: Resolving timed out after 5010 milliseconds (http_request_failed) - 
+06-04-2021 22:45:40 - ERROR - v: 7.0.7 - m: 6.0 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:45:40 - ERROR - v: 7.0.7 - m: 6.3 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:45:40 - ERROR - v: 7.0.7 - m: 6.6 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:45:40 - ERROR - v: 7.0.7 - m: 6.7 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:45:48 - ERROR - v: 7.0.7 - m: 8.8 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:45:48 - ERROR - v: 7.0.7 - m: 8.8 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:45:52 - ERROR - v: 7.0.7 - m: 13.9 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+06-04-2021 22:45:52 - ERROR - v: 7.0.7 - m: 14.0 MB, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 

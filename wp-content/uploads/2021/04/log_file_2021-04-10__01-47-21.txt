@@ -1,0 +1,19 @@
+
+---Downloaded files---
+The import files for: Import SKT Eceptiona Lite Demo were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/accountingvilla
+Data file = C:\wamp\www\accountingvilla/wp-content/themes/skt-exceptiona-lite/demo-content/demo-content.xml
+Widget file = not defined!
+Customizer file = not defined!
+
+------
+Completed AJAX call number: 1
+[ERROR] Failed to import "Theme Demo Import - log_file_2020-05-07__12-35-14" (Media)
+
+
+---Importing content---
+[ERROR] Failed to import "Theme Demo Import - log_file_2020-05-07__12-35-14" (Media)
+
+Max execution time after content import = 300
